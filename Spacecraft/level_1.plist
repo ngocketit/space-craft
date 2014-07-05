@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>levelName</key>
+	<string>Level 1</string>
+	<key>numberOfUFOs</key>
+	<integer>10</integer>
+	<key>numberOfBullets</key>
+	<integer>50</integer>
+	<key>bulletLauncher</key>
+	<string>SingleBulletLauncher</string>
+	<key>ufoSpawner</key>
+	<string>UFOSpawner</string>
+	<key>bombDropper</key>
+	<string>BombDropper</string>
+	<key>spaceCraft</key>
+	<string>SpaceCraft</string>
+</dict>
+</plist>
